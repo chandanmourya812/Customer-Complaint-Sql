@@ -320,7 +320,7 @@ ORDER BY days_open DESC;
 **Chandan Mourya**
  Aspiring Data Analyst | MBA Candidate — Amity University
  
-🔗 [LinkedIn](https://www.linkedin.com/in/chandan-mourya-070a93216)
+🔗 [LinkedIn](https://www.linkedin.com/in/chandamourya812)
 
 ## Project
 
