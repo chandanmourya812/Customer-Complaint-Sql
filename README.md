@@ -321,3 +321,7 @@ ORDER BY days_open DESC;
  Aspiring Data Analyst | MBA Candidate — Amity University
  
 🔗 [LinkedIn](https://www.linkedin.com/in/chandan-mourya-070a93216)
+
+## Project
+
+[complaints_analysis.sql](https://github.com/user-attachments/files/26324831/complaints_analysis.sql)
